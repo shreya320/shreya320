@@ -1,27 +1,86 @@
-# 👋 Hi, I'm Shreya Gupta!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b5c,100:6c5ce7&height=160&section=header&text=Shreya%20Gupta&fontSize=35&fontColor=ffffff"/>
+</p>
 
-Welcome to my GitHub profile! Here are some of my favorite projects:
+<h3 align="center">🚀 Backend Developer | AI/ML Explorer</h3>
 
-## 🌟 Featured Projects
-
-- [📘 Reader’s Heaven](https://github.com/shreyagupta/reader-heaven) — A blog platform for book lovers.
-- [🤖 AI Journal](https://github.com/shreyagupta/ai-journal-app) — Smart journaling with AI support.
-- [⚙️ Medical Store Management](https://github.com/shreyagupta/med-store) — Inventory & sales tracker for pharmacies.
-- [📊 COVID Vaccine Analysis](https://github.com/shreyagupta/covid-vaccine-analysis) — Data science + Kaplan-Meier stats.
-- [💬 FinTech Chatbot](https://github.com/shreyagupta/fintech-chatbot) — AI chatbot for a financial startup.
-- [🧠 Respiratory Illness Detector](https://github.com/shreyagupta/cough-ml-detection) — ML model to predict respiratory conditions.
-- [🌐 Rhyno Website](https://github.com/shreyagupta/rhyno-site) — Internship project for an EV startup.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6c5ce7&center=true&vCenter=true&lines=Building+real-world+projects;Exploring+AI+and+Data;Learning+Backend+Systems" />
+</p>
 
 ---
 
-Feel free to explore and connect with me!
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyagupta&show_icons=true&theme=radical)](https://github.com/shreyagupta)
+### 🌸 About
+💡 Passionate about building real-world AI/ML solutions and working with data.  
+🔍 Focused on backend systems, automation, and meaningful projects.
 
+<br>
 
-## 📦 Projects
+### ⚡ Currently
+- 🔭 Building **Accident Anticipation Project**  
+- ⚙️ Exploring **Backend, Docker & APIs**  
+- 🤖 Working on **AI/ML applications**  
 
-[![Reader's Heaven](https://img.shields.io/badge/-Reader's_Heaven-blueviolet?style=for-the-badge&logo=bookstack)](https://github.com/shreyagupta/reader-heaven)
-[![AI Journal](https://img.shields.io/badge/-AI_Journal-teal?style=for-the-badge&logo=brain)](https://github.com/shreyagupta/ai-journal-app)
-[![Medical Store](https://img.shields.io/badge/-Medical_Store-green?style=for-the-badge&logo=medrxiv)](https://github.com/shreyagupta/med-store)
+<br>
 
+### 🚀 Projects
+<p>
+<img src="https://img.shields.io/badge/Disease_Prediction-ff4b5c?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Library_System-6c5ce7?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Writing_Assistant-00b894?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/News_API-ffa502?style=for-the-badge&logo=javascript&logoColor=white"/>
+</p>
+
+<br>
+
+### 🧠 Coding Profiles
+<p>
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛠️ Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,docker,git,linux,mysql,postgres,tensorflow,flask" />
+</p>
+
+<br>
+
+### 📊 Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya320&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+
+<br>
+
+### 📈 Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya320&theme=tokyo-night&hide_border=true"/>
+
+<br>
+
+### ✨ Quick Stats
+<p>
+<img src="https://img.shields.io/github/repo-count/shreya320?color=6c5ce7&label=Repos&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/shreya320?color=ff4b5c&label=Followers&style=for-the-badge"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,100:ff4b5c&height=100&section=footer"/>
+</p>
