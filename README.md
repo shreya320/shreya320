@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b5c,100:6c5ce7&height=160&section=header&text=Shreya%20Gupta&fontSize=35&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b5c,100:6c5ce7&height=80&section=header&text=Shreya%20Gupta&fontSize=32&fontColor=ffffff"/>
 </p>
 
 <h3 align="center">🚀 Backend Developer | AI/ML Explorer</h3>
@@ -30,8 +30,8 @@
 ### 🚀 Projects
 <p>
 <img src="https://img.shields.io/badge/Disease_Prediction-ff4b5c?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Library_System-6c5ce7?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI_Writing_Assistant-00b894?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Med_Legal_Ai-6c5ce7?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Journaling_Assistant-00b894?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/News_API-ffa502?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
 
@@ -39,11 +39,11 @@
 
 ### 🧠 Coding Profiles
 <p>
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/shreya-gupta-457354254/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<a href="https://leetcode.com/GjvXa3Dt4w/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 </p>
@@ -54,13 +54,13 @@
 
 ### 🛠️ Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,docker,git,linux,mysql,postgres,tensorflow,flask" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,docker,git,linux,mysql,postgres,tensorflow,flask,spring" />
 </p>
 
 <br>
 
 ### 📊 Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya320&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya320&layout=compact&theme=tokyonight&hide_border=true&langs_count=3"/>
 
 <br>
 
@@ -69,11 +69,6 @@
 
 <br>
 
-### ✨ Quick Stats
-<p>
-<img src="https://img.shields.io/github/repo-count/shreya320?color=6c5ce7&label=Repos&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/shreya320?color=ff4b5c&label=Followers&style=for-the-badge"/>
-</p>
 
 </td>
 </tr>
